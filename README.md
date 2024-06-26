@@ -7,8 +7,7 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Code Snippets to Copy](#snippets)
-6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
+6. 🚀 [Testing Credentials](#testing-credentials)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -1491,5 +1490,11 @@ export const Category = ({ category }: CategoryProps) => {
 ```
 
 </details>
+
+🚀 Testing Credentials <a name="testing-credentials"></a>
+To test the website quickly, use the following sign-in credentials:
+
+Email: contact@nithindev.pro
+Password: 123456789
 
 
