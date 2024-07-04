@@ -1,3 +1,4 @@
+![image](https://github.com/NithinPasula/Horizon-Banking/assets/119478104/b3952e9f-b1e1-4251-86a4-847e62a81e30)
 
 
 ## 📋 <a name="table">Table of Contents</a>
